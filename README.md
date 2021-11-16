@@ -6,5 +6,5 @@ This repository remains the same strustures as [A VARIANCE MODELING FRAMEWORK BA
 We replace MCMC-EM algorithm with backpropagation-EM algorithm for performing semi-supervised speech enhancement.
 
 We use a variance modeling framework to model the speech and noise：</br>
-![avatar]()
+![avatar](https://github.com/Le-Xiaohuai-speech/VAE_NMF/blob/main/research_page-1-768x480.png)
 ## Running
