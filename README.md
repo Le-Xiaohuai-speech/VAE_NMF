@@ -7,4 +7,7 @@ We replace MCMC-EM algorithm with backpropagation-EM algorithm for performing se
 
 We use a variance modeling framework to model the speech and noise：</br>
 ![avatar](./research_page-1-768x480.png)
+VAE for speech modeling
+![avatar]()
+NMF for noise modeling
 ## Running
