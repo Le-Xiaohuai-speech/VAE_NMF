@@ -12,7 +12,6 @@ from tensorflow.keras.models import Model
 from tensorflow.keras import backend as KB
 import tensorflow.keras as K
 
-
 class VAE:
     
     def __init__(self, input_dim=None, latent_dim=None,intermediate_dim = None,batch_size=None, activation=None):
